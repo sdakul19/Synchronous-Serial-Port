@@ -1,3 +1,10 @@
+/*
+ * Author: Sam Rojanasakdakul
+ * 
+ * Description: An RTL model of the receive first in first out memory buffer that is 8 bits wide and 4 locations deep
+ *
+ */
+
 module RxFIFO(
 	input pclk,				//Clock for synchronous serial port
 	input clear_b,				//Low active clear signal
