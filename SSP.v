@@ -1,3 +1,10 @@
+/*
+ * Author: Sam Rojanasakdakul
+ * 
+ * Description: An RTL model of the top level module of the synchronous serial port containing the transmit and receive FIFO
+ *
+ */
+
 module SSP(
 	input pclk,			//Clock for Serial Synchronous Port
 	input clear_b,			//Low active clear signal
