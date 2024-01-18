@@ -1,3 +1,9 @@
+/*
+ * Author: Sam Rojanasakdakul
+ * 
+ * Description: A testbench for the transmit receive FIFO testing parallel to serial conversion 
+ */
+
 module Tx_FIFO_tb();
     reg pclk;
     reg clear_b;
