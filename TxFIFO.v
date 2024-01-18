@@ -1,7 +1,7 @@
 /*
  * Author: Sam Rojanasakdakul
  * 
- * Description: An RTL model of the transmit first in first out memory buffer
+ * Description: An RTL model of the transmit first in first out memory buffer that is 8 bits wide and 4 locations deep
  *
  */
 
