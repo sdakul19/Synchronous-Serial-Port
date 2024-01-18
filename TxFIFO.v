@@ -1,3 +1,10 @@
+/*
+ * Author: Sam Rojanasakdakul
+ * 
+ * Description: An RTL model of the transmit first in first out memory buffer
+ *
+ */
+
 module TxFIFO(
 	input pclk,			//Clock for Synchronous Serial Port
 	input clear_b,			//Low active clear signal
